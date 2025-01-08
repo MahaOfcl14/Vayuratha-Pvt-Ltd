@@ -13,7 +13,7 @@ function Categories() {
                 </div>
 
 
-                <div className="w-[90%] md:w-[80%] mx-auto grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-6 mt-5 gap-6 pb-6">
+                <div className="w-[90%] md:w-[80%] mx-auto grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-6 mb-5 p-2 mt-5 gap-6 pb-6">
 
 
 
